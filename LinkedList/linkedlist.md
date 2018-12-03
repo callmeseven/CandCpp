@@ -7,14 +7,14 @@ Then print out city names in population decend order.
 #### Example:
 
 ##### input:
-`Shanghai 2301`
-`Changsha 704`
-`Beijing 1961`
-`Suzhou 1016`
-`Shijiazhuang 1200`
-`@`
+`Shanghai 2301`  
+`Changsha 704`  
+`Beijing 1961`  
+`Suzhou 1016`  
+`Shijiazhuang 1200`  
+`@`  
 ##### output:
-Shanghai Beijing Shijiazhuang Changsha
+`Shanghai Beijing Shijiazhuang Changsha`  
 
 See city.cpp
 
